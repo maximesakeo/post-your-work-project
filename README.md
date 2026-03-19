@@ -10,3 +10,11 @@ This project analyzes bikeshare usage data for multiple customers
 Make sure you have:
 
 - Python 3.x installed 
+
+
+## Known Issues
+- Some rows in the dataset may contain missing or inconsistent values.
+
+
+## Future Improvements
+- Add charts and visualizations to display usage patterns.
